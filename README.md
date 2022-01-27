@@ -9,7 +9,7 @@ pip install limix-lmm
 ```
 
 ## download data
-* download /Users/paolo.casale/Dropbox/misc/systems_genetics_course/ALL.chr22_GRCh38.genotypes.20170504.zip
+* download https://www.dropbox.com/s/86fdj3i7ir3vap7/ALL.chr22_GRCh38.genotypes.20170504.zip?dl=0
 * unzip files
 
 ## start part1 of the tutorial
