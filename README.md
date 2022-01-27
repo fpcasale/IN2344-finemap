@@ -1,4 +1,4 @@
-# install miniconda
+## install miniconda
 https://docs.conda.io/en/latest/miniconda.html
 
 ## install packages 
