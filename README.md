@@ -4,6 +4,7 @@ https://docs.conda.io/en/latest/miniconda.html
 ## setup environment
 ```
 conda create --name sysgen python=3.7
+conda activate sysgen
 conda install -y numpy scipy matplotlib pandas ipython scikit-learn statsmodels jupyterlab
 pip install pandas-plink
 pip install limix-lmm
