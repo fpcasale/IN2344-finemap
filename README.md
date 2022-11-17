@@ -16,7 +16,7 @@ pip install limix-lmm
 
 ## download notebooks and start tutorial part1
 ```
-git clone git@github.com:fpcasale/IN2344-finemap.git
+git clone https://github.com/fpcasale/IN2344-finemap.git
 cd IN2344-finemap
 cd notebooks
 jupyter lab
