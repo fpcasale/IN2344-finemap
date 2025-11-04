@@ -1,13 +1,24 @@
 ## install miniconda
 https://docs.conda.io/en/latest/miniconda.html
 
-## setup environment
+## setup environment for linear regression
 ```
-conda create --name sysgen python=3.7
-conda activate sysgen
+conda create --name sysgen_1 python=3.12
+conda activate sysgen_1
 conda install -y numpy scipy matplotlib pandas ipython scikit-learn statsmodels jupyterlab
 pip install pandas-plink
 pip install limix-lmm
+```
+
+## setup environment for gwas
+```
+
+conda create --name sysgen_2 python=3.9
+conda activate sysgen_2
+conda install -c conda-forge numpy=1.24 scipy=1.9 pandas matplotlib scikit-learn -y
+pip install pandas-plink
+pip install limix-lmm
+
 ```
 
 ## download data
